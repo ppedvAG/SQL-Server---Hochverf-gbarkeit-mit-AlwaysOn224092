@@ -31,3 +31,10 @@
 ### Test der Umgebung auf autoatischen Failover
 ### FailureCondition Level  HealthCheckTimeOut
 
+## AVG
+### Konfiguration SQL Server / Windows Cluster für AVG
+### Einrichten einer AVG und Failover
+### Hinzufügen einer DB zu einer best Gruppe
+### AVG unter SQL 2022 mit SystemDBs
+
+
