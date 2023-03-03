@@ -16,3 +16,18 @@
 ### Konfiguration  per TSQL der Logins und Rechte auf Endpunkte
 ### Spiegelung per TSQL
 ### Messen der Spiegelung
+
+## iSCSI Datenträger
+### Einrichten
+### Initialisieren und zuweisen
+
+## NT Cluster
+### Einrichten 
+### Konfiguration, Prüfbericht, Quorum
+### Clustered Shared Volumes
+
+## SQL CLuster
+### Installation 1. und 2. Knoten
+### Test der Umgebung auf autoatischen Failover
+### FailureCondition Level  HealthCheckTimeOut
+
